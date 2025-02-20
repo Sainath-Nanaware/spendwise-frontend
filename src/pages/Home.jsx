@@ -1,10 +1,11 @@
 import React from 'react'
+import Header from '../components/layouts/Header'
 
 function Home() {
   return (
-    <div>
-        <h1>Welcome CEO on SpendWise</h1>
-    </div>
+    <>
+        <Header/>
+    </>
   )
 }
 

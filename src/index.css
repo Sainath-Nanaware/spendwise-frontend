@@ -1,1 +1,12 @@
 @import "tailwindcss";
+
+body {
+  @apply font-sans;
+}
+
+.pb {
+  @apply border-2 border-red-700;
+}
+
+/* E6ECDE */
+/* body color:#F5F5F5 */
