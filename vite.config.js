@@ -7,7 +7,7 @@ export default defineConfig({
   theme: {
     extend: {
       fontFamily: {
-        sans: ["Verdana", "sans-serif"],
+        inter: ["Inter", "sans-serif"],
       },
     },
   },
