@@ -8,7 +8,7 @@ function Home() {
     <>
         <Header/>
         <Main/>
-        {/* <GetStart/> */}
+        <GetStart/>
     </>
   )
 }

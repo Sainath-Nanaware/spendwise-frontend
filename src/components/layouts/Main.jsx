@@ -2,7 +2,7 @@ import React from 'react'
 import mainImage from '../../../public/images/phoneWithMoney.jpg'
 function Main() {
   return (
-    <main className='pb h-[90vh] p-[10px] md:pl-[5vw] md:pr-[5vw] md:flex  md:items-center'> 
+    <main className=' h-[88vh] p-[10px]  md:h-[82vh] md:pl-[5vw] md:pr-[5vw] md:flex  md:items-center'> 
         {/* Tag Line wih description */}
         <div className=' h-[50vh] flex  flex-col justify-center items-center gap-4  md:h-[80vh] md:w-[50vw] '>
             {/* Tag Line */}
