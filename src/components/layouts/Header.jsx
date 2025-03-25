@@ -3,7 +3,7 @@ import React from 'react'
 import { Link } from 'react-router-dom'
 function Header() {
   return (
-        <header className=' h-[10vh] bg-[#EEEEEE] flex justify-center items-center md:flex md:justify-between md:items-center pl-[5vw] pr-[5vw]'>
+        <header className=' h-[10vh] bg-[#EEEEEE] flex justify-center items-center md:flex md:justify-between md:items-center pl-[5vw] pr-[5vw]  sticky top-0 left-0 w-full'>
             {/* Logo */}
             <div className=''>
                 <Link to={"/"} aria-label="Home">
