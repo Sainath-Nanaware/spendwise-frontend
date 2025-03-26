@@ -3,6 +3,7 @@ import Header from '../components/layouts/Header'
 import Main from '../components/layouts/Main'
 import GetStart from '../components/layouts/GetStart'
 import FeaturesCards from '../components/layouts/FeaturesCards'
+import Footer from '../components/layouts/footer'
 
 function Home() {
   return (
@@ -11,6 +12,8 @@ function Home() {
         <Main/>
         <GetStart/>
         <FeaturesCards/>
+        <Footer/>
+        
     </>
   )
 }
